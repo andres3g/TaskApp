@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PanelConfig.qml</file>
+        <file>utilidades/Icons.js</file>
+        <file>utilidades/materialdesignicons-webfont.ttf</file>
+        <file>MyToolBar.qml</file>
+        <file>TaskWindow.qml</file>
+        <file>CashWindow.qml</file>
+        <file>ShoppingWindow.qml</file>
+        <file>GrupWindow.qml</file>
+        <file>SaveWindow.qml</file>
+        <file>AddTask.qml</file>
+        <file>Menu01.qml</file>
+        <file>AddShopping.qml</file>
+        <file>Configuracion.qml</file>
+    </qresource>
+</RCC>
